@@ -9,6 +9,7 @@ app.use(express.static(path.join(__dirname, 'build')));
 
 // Handle all GET requests to serve the index.html file
 app.get('*', (req, res) => {
+    // Send the index.html file for any route that isn’t matched by a static file
     res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 
