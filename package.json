@@ -1,7 +1,7 @@
 {
   "name": "git-collaboration-tool",
   "version": "1.0.0",
-  "description": "A simple web tool for visualizing and analyzing Git repositories",
+  "description": "Ein einfaches Web-Tool zur Visualisierung und Analyse von Git-Repositorys",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
