@@ -1,4 +1,4 @@
- {
+{
   "name": "git-collaboration-tool",
   "version": "1.0.0",
   "description": "A simple web tool for visualizing and analyzing Git repositories",
@@ -17,5 +17,9 @@
     "webpack": "^5.58.1",
     "webpack-cli": "^4.9.1"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/git-collaboration-tool.git"
+  }
 }
