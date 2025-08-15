@@ -1,6 +1,6 @@
 {
   "name": "git-collaboration-tool",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple web tool for visualizing and analyzing Git repositories",
   "main": "index.js",
   "scripts": {
@@ -21,5 +21,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/username/git-collaboration-tool.git"
-  }
+  },
+  "keywords": ["git", "collaboration", "tool", "visualization", "analysis"]
 }
